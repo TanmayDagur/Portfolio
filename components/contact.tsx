@@ -15,7 +15,7 @@ export function Contact(){
               <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-zinc-900 mb-6">Get In Touch</h2>
               <p className="text-zinc-600 mb-10 text-lg">
                 I’m open to new opportunities and collaborations.
-                Have a question or just want to say hi? Drop a message—I’d love to connect.
+                Have a question or just want to say hi? Drop a message,I&apos;d love to connect.
               </p>
               <a 
                 href="mailto:tanmaydagur200@gmail.com" 
