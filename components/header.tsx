@@ -5,7 +5,7 @@ export function Header() {
         <header className="sticky top-0 z-50 w-full border-b border-zinc-200 bg-zinc-50/80 backdrop-blur-md">
             <div className="container mx-auto px-4 h-16 flex items-center justify-between max-w-5xl">
             <div className="font-mono font-bold text-xl tracking-tighter">
-                dev<span className="text-zinc-400">.</span>portfolio
+                portfolio
             </div>
             <nav className="hidden md:flex gap-6 text-sm font-medium text-zinc-600">
                 <a href="#about" className="hover:text-zinc-900 transition-colors">About</a>
