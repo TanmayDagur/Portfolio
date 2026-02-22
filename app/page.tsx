@@ -5,6 +5,7 @@ import { Project } from '@/components/project';
 import { Skills } from '@/components/skills';
 import { Contact } from '@/components/contact';
 import { Footer } from '@/components/footer';
+import ResumePage from '@/components/resume';
 
 export default function Portfolio() {
   return (
@@ -15,11 +16,14 @@ export default function Portfolio() {
       <main className="flex-1">
         
         <Hero />
+
         
         <Project />
 
         
         <Skills />
+
+        <ResumePage />
 
         <Contact />
         

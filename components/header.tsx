@@ -11,6 +11,7 @@ export function Header() {
                 <a href="#about" className="hover:text-zinc-900 transition-colors">About</a>
                 <a href="#projects" className="hover:text-zinc-900 transition-colors">Projects</a>
                 <a href="#skills" className="hover:text-zinc-900 transition-colors">Skills</a>
+                <a href="#resume" className="hover:text-zinc-900 transition-colors">Resume</a>
                 <a href="#contact" className="hover:text-zinc-900 transition-colors">Contact</a>
             </nav>
             <div className="flex items-center gap-4">
