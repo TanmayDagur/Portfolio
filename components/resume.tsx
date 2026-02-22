@@ -19,7 +19,6 @@ export default function ResumePage() {
 
         <a 
           href="/resume.pdf" 
-          download="Tanmay_Dagur_Resume.pdf"
           className="flex items-center justify-center px-8 py-3 bg-gray-800 text-white rounded-lg font-semibold hover:bg-black transition-all shadow-md"
         >
           <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

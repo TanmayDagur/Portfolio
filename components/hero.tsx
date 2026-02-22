@@ -19,7 +19,7 @@ export function Hero() {
             <h2 className="font-mono text-sm font-medium text-zinc-500 mb-4 tracking-wider uppercase">
               From DataBase to Browser
             </h2>
-            <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-zinc-900 mb-6">
+            <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-zinc-900 mb-6">
               <TypingText text="I&apos;m Tanmay Dagur" />
             </h1>
             <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-zinc-400 mb-8">
